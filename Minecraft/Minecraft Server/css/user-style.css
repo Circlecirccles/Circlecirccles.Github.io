@@ -1,0 +1,199 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+.display-6.mb-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.mb-4 {
+    width: 298px;
+    height: 124px;
+}
+
+#header:not(.sticky-header) #logo a {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.rounded {
+    height: 435.953px;
+    width: 455.6px;
+    text-align: left;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+[data-aos] {
+    opacity: 1 !important;
+    transform: translate(0px) scale(1) !important;
+}
+
+.c22379 {
+    display: none;
+}
+
+.row:nth-of-type(2n) {
+    float: none;
+    text-align: center;
+}
+
+.c1969 {
+    text-align: center;
+}
+
+.fdb-block {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    padding-top: 100px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+    color: rgb(68, 68, 68);
+    position: relative;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 394.2660000000001px;
+    width: 949px;
+}
+
+.fdb-block .col-fill-left {
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    z-index: 1;
+}
+
+a {
+    color: rgb(0, 123, 255);
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    background-color: transparent;
+}
+
+a:hover {
+    color: rgb(0, 86, 179);
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.c11094 {
+    background-image: url(https://oss.htmlpage.cn/editor/images/bg_c_1.svg);
+}
+
+.c13227 {
+    padding: 10px;
+}
+
+.c14508 {
+    padding: 10px;
+}
+
+.progress-list .progressbar.line {
+    height: 8px;
+    background-color: rgb(244, 244, 244);
+}
+
+.c6201 {
+    top: 15%;
+    left: -7%;
+}
+
+.c6324 {
+    bottom: 10%;
+    left: -10%;
+}
+
+.c8757 {
+    top: -2rem;
+    left: -1.4rem;
+}
+
+.c9992 {
+    color: rgb(96, 105, 123);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+    font-size: 16px;
+}
+
+.c10136 {
+    padding: 10px;
+}
+
+.c10253 {
+    color: rgb(96, 105, 123);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+    font-size: 16px;
+    background-color: rgb(241, 245, 253);
+}
